@@ -1,2 +1,2 @@
-this is file 2
+this is file 2 and file 2
 this is from windows
